@@ -17,7 +17,7 @@ public class Main
         getSimpFrac(numer,denom);
     }
     
-    public static void getSimpFrac(int n, int d)
+    public static void getSimpFrac(int n,int d)
     {
         int greatCom = 0;
         int low = 0;
