@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=sudoku\ row\ num
+comment1.target=boolean\ checkRow(java.lang.String[][],\ int,\ int)
+comment2.params=sudoku\ col\ num
+comment2.target=boolean\ checkCol(java.lang.String[][],\ int,\ int)
+comment3.params=
+comment3.target=boolean\ checkSquare()
+comment4.params=sudoku
+comment4.target=void\ printSudoku(java.lang.String[][])
+comment5.params=
+comment5.target=java.lang.String[][]\ createPuzzle()
+numComments=6
